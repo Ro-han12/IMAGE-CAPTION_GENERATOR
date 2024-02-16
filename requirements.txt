@@ -18,4 +18,5 @@ Flask-Cors
 gdown
 tensorflow-metal
 graphviz
+nltk
 -e .
